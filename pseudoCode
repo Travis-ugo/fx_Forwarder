@@ -1,0 +1,20 @@
+
+A telegram bot that forwards messages from one channel/group to another
+
+
+- Create incoming group(getter) and outgoing group(reciever)
+- Add bot/client to incoming group
+
+
+pseudo
+
+* Create/Instantiate with api_id api_hash and (bot_token or phone)
+
+* Set (Event Listener) i.e listen for new incoming message
+
+* send message to outgoing group
+
+outgoing_id
+incoming_id
+
+
